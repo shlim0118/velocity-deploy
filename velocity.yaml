@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: velocity-container
-        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/velocity:5
+        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/velocity:6
         ports:
         - containerPort: 25565
 
